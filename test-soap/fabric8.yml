@@ -1,0 +1,8 @@
+---
+buildName: "test-soap"
+links:
+  Git: "nullnull/test-soap.git"
+environments:
+  Testing: "soap-test-project-testing"
+  Staging: "soap-test-project-staging"
+  Production: "soap-test-project-prod"
