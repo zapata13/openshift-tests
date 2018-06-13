@@ -1,7 +1,7 @@
 ---
 buildName: "test-soap"
 links:
-  Git: "nullnull/test-soap.git"
+  Git: "https://github.com/zapata13/openshift-tests/tree/master/test-soap"
 environments:
   Testing: "soap-test-project-testing"
   Staging: "soap-test-project-staging"
